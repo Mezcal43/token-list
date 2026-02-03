@@ -1,5 +1,5 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
-
+# Validate [TOKEN Mexicoin](https://solscan.io/tx/3yWmubKdSun1bLfP3mwA95VjKf8GVWMSD7fk5yskkXStpTMkdFzBN1Yidt45xaiUkNbroiEhbDn2d5m5hKxkxcNk
+6SAJMnQxAabbkVYj2newxw9X1KeP1gwAUPLXeDohMaYx)
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/YOUR_ACCOUNT_NAME_HERE/status/YOUR_TWEET_ID_HERE
 - Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/YOUR_ID_HERE
@@ -13,4 +13,4 @@
 - [ ] My change matches the format in the file (no spaces between fields).
 - [ ] My token is already live and trading on Jupiter.
 - [ ] !!! I read the README section on Community-Driven Validation and understand this PR will be only be reviewed when there is community support on Twitter.
-- [ ] Please make sure your pull request title has your token name. If it just says "Main", or "Validate", it will automatically be closed. PRs containing broken attestation or solscan links will also be closed.
+- [ ] Please make sure your pull request title has your token name. If it just says "Main", or "Validate", it will automatically be closed. PRs containing broken attestation or solscan links will also be closed. 
